@@ -1,0 +1,12 @@
+.expense-item_card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem 3rem;
+  background-color: #ccc;
+  border-radius: 2rem;
+}
+
+h2 {
+  margin: 0;
+}
